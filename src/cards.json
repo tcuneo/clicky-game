@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Charmander",
+      "image": "https://vignette.wikia.nocookie.net/virtuadopt/images/5/56/Charmander.png/revision/latest?cb=20111217191014",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Bulbasaur",
+      "image": "https://vignette.wikia.nocookie.net/real-girls-on-the-island/images/4/43/Bulbasaur.png/revision/latest?cb=20180907232625",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Squirtle",
+      "image": "https://vignette.wikia.nocookie.net/deathbattle/images/6/6f/Squirtle_vector_by_pokinee-d72iwki.png/revision/latest?cb=20151111010533",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Cyndaquil",
+      "image": "https://vignette.wikia.nocookie.net/mlp/images/f/f8/Illustrator_vector_cyndaquil_by_kallen10-d392ejt.png/revision/latest?cb=20130113160107",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Totadile",
+      "image": "https://vignette.wikia.nocookie.net/fantendo/images/b/b5/158Totodile_2.png/revision/latest?cb=20140703185119",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Chikorita",
+      "image": "https://vignette.wikia.nocookie.net/pokemon/images/c/cd/152Chikorita_OS_anime_2.png/revision/latest?cb=20140925234042",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Treecko",
+      "image": "https://vignette.wikia.nocookie.net/pokemon/images/a/a4/252Treecko_AG_anime_3.png/revision/latest?cb=20150719045640",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Torchic",
+      "image": "https://vignette.wikia.nocookie.net/nintendo/images/4/4f/Torchic.png/revision/latest?cb=20160804204000&path-prefix=en",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Mudkip",
+      "image": "https://cdn.weasyl.com/~ferne/submissions/866032/471f9193cb6c38991c9415bc1690d4774479bd7de0ab91098dcdc94bd0459ed6/ferne-mudkip.png",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Piplup",
+      "image": "https://cdn.bulbagarden.net/upload/b/b1/393Piplup.png",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Chimchar",
+      "image": "https://cdn.bulbagarden.net/upload/7/76/390Chimchar.png",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Turtwig",
+      "image": "https://vignette.wikia.nocookie.net/pokemon/images/7/78/387Turtwig_DP_anime_5.png/revision/latest?cb=20150101213519",
+      "count": 0
+    }
+  ]
