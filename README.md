@@ -1,2 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Pokemon Clicky Game
+
+#### Click on each Pokemon once to win the game. Click on any pokemon more than one and Game Over!
+
+#### Built with React.
 
